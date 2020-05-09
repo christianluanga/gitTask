@@ -1,1 +1,2 @@
-console.log('Git is Awasome')
+const name = prompt('Please enter your name')
+console.log(`Hello ${name}`)
